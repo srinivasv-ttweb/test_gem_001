@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["srinivasv-ttweb"]
   spec.email         = ["svuppala@traveltripper.com"]
 
-  spec.summary       = %q{TODO: My first ruby gem}
+  spec.summary       = %q{My first ruby gem}
   spec.homepage      = "https://github.com/srinivasv-ttweb/test_gem_001"
   spec.license       = "MIT"
 
